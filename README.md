@@ -14,4 +14,4 @@
 ### Check if any row, column, or diagonal is completely filled with the same symbol, indicating that player 1 has won. If not, continue to the next step.
 ### Determine the position chosen by player 2 to play.
 ### Check if the position is valid, between 1 and 9, or invalid.
-### Check if any row, column, or diagonal is completely filled with the same symbol, indicating that ###player 2 has won. If not, repeat steps 5 to 9 until a win or game over is achieved.
+### Check if any row, column, or diagonal is completely filled with the same symbol, indicating that player 2 has won. If not, repeat steps 5 to 9 until a win or game over is achieved.
