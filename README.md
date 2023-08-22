@@ -2,10 +2,8 @@
 
 # Tic-Tac_Toe
 
-
 ### The game is written in C language.
 ### To win, you must be the first to get three of your marks in a horizontal, vertical, or diagonal row, otherwise the game is a draw.
-
 
 #### Determine the symbol chosen by player 1.
 #### Check if the symbol is valid or invalid.
